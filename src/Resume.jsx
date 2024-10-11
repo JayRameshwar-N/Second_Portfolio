@@ -13,7 +13,7 @@ const Resume = () => {
       <h2 className='resume'>𝘳𝘦𝘴𝘶𝘮𝘦 ⊹</h2>
       
       <a 
-        href="https://drive.google.com/file/d/18Rw1XQTa7XXDcYiJOQDmps3PexahHnar/view?usp=drive_link" 
+        href="https://drive.google.com/file/d/1NM53lpu_dX8K1tmWTGPsAi80VhUOG74p/view?usp=sharing" 
         target="_blank" 
         rel="noopener noreferrer"
         className='link'
