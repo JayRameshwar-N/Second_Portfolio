@@ -1546,21 +1546,21 @@ html, body {
 /* Greeting Message */
 .greeting-message {
   font-size: 1.6rem;
-  /* font-weight: bold; */
-  background: linear-gradient(90deg, #1e3367, #015b9c, #943803fb, #fb00ff, #fd061f);
+  background: linear-gradient(90deg, #1e2020, #c91daa); /* Two professional colors */
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent; 
-  animation: fadeIn 0.5s ease-in-out, scaleUp 0.7s ease-in-out, colorShift 3s ease-in-out infinite; 
-  max-width: 600px; 
-  margin: 0 auto; 
-  text-align: center; 
-  word-wrap: break-word; 
-  line-height: 1.6; 
-  display: inline-block; 
-  padding: 1rem; 
-  position: relative; 
+  color: transparent;
+  animation: fadeIn 0.5s ease-in-out, scaleUp 0.7s ease-in-out, colorShift 3s ease-in-out infinite;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  word-wrap: break-word;
+  line-height: 1.6;
+  display: inline-block;
+  padding: 1rem;
+  position: relative;
 }
+
 
 /* Keyframe for fadeIn animation */
 @keyframes fadeIn {
