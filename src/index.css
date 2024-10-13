@@ -398,7 +398,7 @@ html, body {
 /* Media query for mobile screens (up to 767px) */
 @media (max-width: 767px) {
   .portfolio-container {
-    background-image: url("https://i.pinimg.com/564x/96/da/f5/96daf50d3c5afc7f9504d349a53e4dd1.jpg");
+    background-image: url("https://marketplace.canva.com/EAFuXLoA1rs/1/0/900w/canva-white-minimalist-quote-motivational-phone-wallpaper-ywUul4hHw-k.jpg");
     padding: 1px;
     height: 100vh;
   }
@@ -408,13 +408,13 @@ html, body {
     margin-top: 7rem;
   }
 
+
+
   .box {
     width: 70%;
     margin-right: 0;
   }
-  .laptopName{
-    padding-top: 7%;
-  }
+
   
   .sociaL {
     margin-left: 0;
@@ -438,6 +438,12 @@ html, body {
 
   .ram {
     font-size: 1.8rem;
+
+  }
+  .menu{
+    background-color: rgb(214, 210, 210);
+    box-shadow: 0 4px 8px rgb(122, 106, 106);
+
 
   }
 
